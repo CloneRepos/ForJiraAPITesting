@@ -29,13 +29,6 @@ And two
 When something
 And some changes
 
-@SC_70782
-Scenario: Second
-Given one
-And two
-When something
-And some changes
-
 @SC_70783
 Scenario: First
 coments
