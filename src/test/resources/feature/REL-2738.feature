@@ -29,13 +29,6 @@ And two
 When something
 And some changes
 
-@SC_70784
-Scenario: Second
-Given one
-And two
-When something
-And some changes
-
 @SC_70785
 Scenario: test update from jira one story
 Given one
