@@ -58,13 +58,6 @@ And two
 When something
 And some changes
 
-@SC_70786
-Scenario: test update from jira one story
-Given one
-And two
-When something
-And some changes
-
 @SC_70787
 Scenario: test
 Given dfdf
