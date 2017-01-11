@@ -8,7 +8,7 @@ Given one
 And two
 When something
 
-@SC_70696 @tag
+@SC_70696 @tag @tag2
 Scenario: One
 Desc
 Given first
